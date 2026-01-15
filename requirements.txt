@@ -1,0 +1,16 @@
+accelerate
+beautifulsoup4
+bitsandbytes
+datasets
+evaluate
+matplotlib
+numpy
+pandas
+peft
+playwright
+requests
+scikit-learn
+torch
+tqdm
+transformers
+yt-dlp
