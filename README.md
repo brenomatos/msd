@@ -55,3 +55,8 @@ steps (details are elaborated in the subfolder READMEs):
 ## Citation and license
 
 tba
+
+
+## Authorship
+
+Code created by Breno Matos and Rennan Cordeiro
